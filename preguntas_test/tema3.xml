@@ -1,0 +1,18 @@
+<pregunta>
+<enunciado>1. ¿Qué es Backbone?</enunciado>
+<opcionA>Eje principal de enlace entre máquinas.</opcionA>
+<opcionB>Columna vertebral.</opcionB>
+<opcionC>Protocolo de seguridad web.</opcionC>
+<opcionD>Área restringida o aislada.</opcionD>
+<solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>2. La calidad de la conexión a internet depende de... </enunciado>
+<opcionA>No bloquear paquetes.</opcionA>
+<opcionB>La zona donde nos encontremos.</opcionB>
+<opcionC>Calidad del servicio y ancho de banda, filtrado y bloqueo de paquetes, y network address translation.</opcionC>
+<opcionD>Las redes corporativas/seguras.</opcionD>
+<solucion>C</solucion>
+</pregunta>
+
