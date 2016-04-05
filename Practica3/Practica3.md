@@ -3,7 +3,7 @@
 ##1.Instalar nginx en Ubuntu Server 12.04
 
 	
-	Para realizar esta práctica lo primero que he tenido que hacer ha sido crear una nueva máquina virtual a
+Para realizar esta práctica lo primero que he tenido que hacer ha sido crear una nueva máquina virtual a
 la que he llamado *Ubuntu 3 (balanceador)* que como su propio nombre indica la he usado para balancear la carga
 de las otras dos máquinas.
 
@@ -20,7 +20,7 @@ Una vez instalado, procedemos a su configuración como balanceador de carga.
 
 ##2.Balanceo de carga usando nginx
 
-	Para poder hacer el balanceo de carga usando nginx vamos a tener que configurarlo modificando el fichero de configuración 
+Para poder hacer el balanceo de carga usando nginx vamos a tener que configurarlo modificando el fichero de configuración 
 */etc/nginx/conf.d/default.conf* el cual se nos quedaría tal que así:
 
 ![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica3/imagenes/2.PNG)
@@ -38,12 +38,12 @@ Aquí lo hacemos en la máquina secundaria:
 
 ##3.Balanceo de carga con haproxy
 
-	En primer lugar tenemos que instalar *haproxy* esto lo haremos usando el comando *apt-get install haproxy*. Una vez instalado
+En primer lugar tenemos que instalar *haproxy* esto lo haremos usando el comando *apt-get install haproxy*. Una vez instalado
 debemos modificar el archivo */etc/haproxy/haproxy.cfg* y dicho archivo debe quedar así: 
 
 ![Imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica3/imagenes/5.1.PNG) 
 
-	Una vez configurado tenemos detener el servicio *nginx* ya que escucha por el puerto 80 como *haproxy* para ello usaremos el comando 
+Una vez configurado tenemos detener el servicio *nginx* ya que escucha por el puerto 80 como *haproxy* para ello usaremos el comando 
 *service nginx stop*. Ahora lanzamos el servicio *haproxy* mediante el comando */usr/sbin/haproxy -f /etc/haproxy/haproxy.cfg*: 
 
 ![Imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica3/imagenes/5.2.PNG)
