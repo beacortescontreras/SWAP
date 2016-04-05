@@ -2,6 +2,7 @@
 
 ##1.Instalar nginx en Ubuntu Server 12.04
 
+	
 	Para realizar esta práctica lo primero que he tenido que hacer ha sido crear una nueva máquina virtual a
 la que he llamado *Ubuntu 3 (balanceador)* que como su propio nombre indica la he usado para balancear la carga
 de las otras dos máquinas.
