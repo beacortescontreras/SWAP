@@ -1,0 +1,19 @@
+<pregunta>
+<enunciado>1.¿Cómo destaca Apache Benchmark? </enunciado>
+<opcionA>Como herramienta de simulación de carga.</opcionA>
+<opcionB>Como animal.</opcionB>
+<opcionC>Como herramienta de simulación de redes.</opcionC>
+<opcionD>Como herramienta de idioma.</opcionD>
+<solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>2.Entre las diferentes pruebas que se hacen a los servidores
+para comprobar su funcionamiento, ¿en qué consiste la pruega de carga?</enunciado>
+<opcionA>Pruebas preliminares para comprobar que el sistema está listo para los test.</opcionA>
+<opcionB>Actividad creciente hasta detectar el punto de saturación.</opcionB>
+<opcionC>Cargas lo más parecidas a la real. Se ejecutan en periodos cortos, para 
+determinar los tiempos de respuesta que tendrán los usuarios.</opcionC>
+<opcionD>Aplicar fuertes picos de carga durante cortos periodos.</opcionD>
+<solucion>C</solucion>
+</pregunta>

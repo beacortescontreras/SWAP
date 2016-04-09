@@ -1,0 +1,18 @@
+<pregunta>
+<enunciado> 1. ¿Qué significa round-robin?</enunciado>
+<opcionA>Balanceo basado en el menor número de conexiones.</opcionA>
+<opcionB>Balanceo basado en turnos.</opcionB>
+<opcionC>Es una marca de coches.</opcionC>
+<opcionD>Balanceo basado en prioridad.</opcionD>
+<solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+<enunciado>2.¿Qué diversos beneficios aporta el balancio de carga?</enunciado>
+<opcionA>Seguridad y calidad de servicio.</opcionA>
+<opcionB>Es bueno para la salud.</opcionB>
+<opcionC>Escalabilidad y flexibilidad.</opcionC>
+<opcionD>Escalabilidad, disponibilidad, mantenimiento, seguridad y calidad de servicio.</opcionD>
+<solucion>D</solucion>
+</pregunta>
