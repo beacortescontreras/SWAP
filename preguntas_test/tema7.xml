@@ -1,0 +1,17 @@
+<pregunta>
+<enunciado>1. ¿A que se refiere la ampliación vertical? </enunciado>
+<opcionA>Replicar el almacenamiento entre varios servidores.</opcionA>
+<opcionB>Ampliar el espacio vertical.</opcionB>
+<opcionC>Adquirir una mejora hardware más rápido y actualizado.</opcionC>
+<opcionD>La ampliación vertical no existe.</opcionD>
+<solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>2. ¿Qué significa segmentar la BD?</enunciado>
+<opcionA>Hacer una división lógica de la BD.</opcionA>
+<opcionB>No tiene significado.</opcionB>
+<opcionC>Número de sesiones concurrentes en la BD.</opcionC>
+<opcionD>Calcular su tamaño total.</opcionD>
+<solucion>A</solucion>
+</pregunta>

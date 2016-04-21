@@ -1,0 +1,19 @@
+<pregunta>
+<enunciado>1. ¿A qué nos ayuda usar clústers web? </enunciado>
+<opcionA>A ser mejor persona.</opcionA>
+<opcionB>A nada todo lo contrario, da muchos problemas.</opcionB>
+<opcionC>Incrementa la capacidad de ofrecer servicios usando tecnologías 
+hardware y software estándar.</opcionC>
+<opcionD>A balancear la carga.</opcionD>
+<solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado> 2.¿Qué es fácil de instalar y de gestionar para cargas
+de rack de entre 2700 y 10KW? </enunciado>
+<opcionA>SonicWALL WXA.</opcionA>
+<opcionB>UPS en línea para rack de Dell.</opcionB>
+<opcionC>Photoshop.</opcionC>
+<opcionD>Sistema de alimentación ininterrumpida.</opcionD>
+<solucion>B</solucion>
+</pregunta>
