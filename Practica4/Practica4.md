@@ -32,10 +32,10 @@ con los datos recogidos durante la prueba:
 Y aquí podemos ver las gráficas donde *serie 1* se refiere a *Nginx*, *serie 2* a *Haproxy* y 
 finalmente *serie 3* se refiere a mi *Máquina 1*.
 
-![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/Siege1.PNG)
+![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/availa.PNG)
 ![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/Siege2.PNG)
 ![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/Siege3.PNG)
-![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/Siege4.PNG)
+![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/trans.PNG)
 
 ##3.[Voluntario] Comprobar el rendimiento con Httperf
 
