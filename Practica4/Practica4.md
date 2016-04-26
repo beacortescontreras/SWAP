@@ -55,7 +55,7 @@ Y aquí podemos ver las gráficas donde *serie 1* se refiere a *Nginx*, *serie 2
 finalmente *serie 3* se refiere a mi *Máquina 1*.
 
 ![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/httperf1.PNG)
-![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/httperf2.PNG)
-![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/httperf3.PNG)
+![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/cone.PNG)
+![imagen](https://github.com/beacortescontreras/SWAP/blob/master/Practica4/imagenes/re.PNG)
 	
 	
